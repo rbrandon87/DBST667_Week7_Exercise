@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+<b:Source>
+<b:Year>2013</b:Year>
+<b:Volume>112</b:Volume>
+<b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+<b:SourceType>Book</b:SourceType>
+<b:Title>An introduction to statistical learning</b:Title>
+<b:Tag>james2013introduction</b:Tag>
+<b:Publisher>Springer</b:Publisher>
+<b:Author>
+<b:Author>
+<b:NameList>
+<b:Person>
+<b:Last>James</b:Last>
+<b:First>Gareth</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Witten</b:Last>
+<b:First>Daniela</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Hastie</b:Last>
+<b:First>Trevor</b:First>
+</b:Person>
+<b:Person>
+<b:Last>Tibshirani</b:Last>
+<b:First>Robert</b:First>
+</b:Person>
+</b:NameList>
+</b:Author>
+</b:Author>
+</b:Source>
+</b:Sources>
